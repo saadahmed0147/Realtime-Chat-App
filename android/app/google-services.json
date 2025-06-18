@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082544990701",
+    "project_id": "testing-cli-9be52",
+    "storage_bucket": "testing-cli-9be52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082544990701:android:dfb70926b907576851dfe4",
+        "android_client_info": {
+          "package_name": "com.example.realtime_chat_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9jKNHoDzIqNRJHpyWJcYOVDXcqy42F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
